@@ -1,1 +1,1 @@
-Solutions to Handling Python exceptions
+Solutions to 0x05-python-exceptions
